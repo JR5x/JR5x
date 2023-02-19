@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm an education professional who is currently completing a bootcamp in coding and data science.
+
+I'm interested in using using machine learning to extrat information from data. In the finalCapstone respository you can find my final capstone project, using Unsupervised Machine Learning.
+![image](https://user-images.githubusercontent.com/75762753/219964296-e1a851f3-7a76-449a-8d4f-cdb4e717046b.png)
+
+I'm also interested in Python development and developing coding solutions to problems.
+
+
 <!--
 **JR5x/JR5x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
