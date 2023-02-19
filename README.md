@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm James.
 
 I'm an education professional who is currently completing a bootcamp in coding and data science.
 
