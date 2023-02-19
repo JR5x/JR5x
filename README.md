@@ -5,6 +5,7 @@ I'm an education professional who is currently completing a bootcamp in coding a
 I'm interested in using using machine learning to extract information from data. In the finalCapstone respository you can find my final capstone project, using Unsupervised Machine Learning.
 
 ![image](https://user-images.githubusercontent.com/75762753/219964296-e1a851f3-7a76-449a-8d4f-cdb4e717046b.png)
+> An extrat from my capstone project
 
 I'm also interested in Python development and developing coding solutions to problems.
 
