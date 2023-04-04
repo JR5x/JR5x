@@ -6,9 +6,11 @@ I'm an education professional who is currently completing a bootcamp in coding a
 
 - [Final Capstone Repository](https://github.com/JR5x/finalCapstone): This is my final capstone project where I used unsupervised machine learning to extract information from a dataset on arrests in the USA in 1970.
 
+- [Image Processing Repository](https://github.com/JR5x/imageProcessingTask): A project where I train and tune a Random Forest classifier model on the MNIST dataset, reporting accuracy.
+
 ![image](https://user-images.githubusercontent.com/75762753/219964296-e1a851f3-7a76-449a-8d4f-cdb4e717046b.png)
 
-> An extract from my capstone project
+> An extract from my final capstone project
 
 #### Skills
 
