@@ -4,7 +4,7 @@ I'm an education professional who is currently completing a bootcamp in coding a
 
 #### Projects
 
-- [Final Capstone Repository](https://github.com/yourusername/finalCapstone): This is my final capstone project where I used unsupervised machine learning to extract information from a dataset on crimes in the USA in 1970.
+- [Final Capstone Repository](https://github.com/JR5x/finalCapstone): This is my final capstone project where I used unsupervised machine learning to extract information from a dataset on arrests in the USA in 1970.
 
 ![image](https://user-images.githubusercontent.com/75762753/219964296-e1a851f3-7a76-449a-8d4f-cdb4e717046b.png)
 
